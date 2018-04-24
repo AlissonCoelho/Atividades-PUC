@@ -1,0 +1,11 @@
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\bin\Debug\netcoreapp2.0\Questão_1.deps.json
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\bin\Debug\netcoreapp2.0\Questão_1.runtimeconfig.json
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\bin\Debug\netcoreapp2.0\Questão_1.runtimeconfig.dev.json
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\bin\Debug\netcoreapp2.0\Questão_1.dll
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\bin\Debug\netcoreapp2.0\Questão_1.pdb
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.csprojResolveAssemblyReference.cache
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.csproj.CoreCompileInputs.cache
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.AssemblyInfoInputs.cache
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.AssemblyInfo.cs
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.dll
+E:\Dados\PUC\POO\Exercicios Classe\Classe_Interfaces\Questão_1\obj\Debug\netcoreapp2.0\Questão_1.pdb
